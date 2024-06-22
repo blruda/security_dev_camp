@@ -1,3 +1,6 @@
+Actually, see [zenfosec's copy](https://github.com/zenfosec/security_dev_camp) instead
+
+
 **Security DevCamp - June 22, 2024**
 
 1. Fork this repository.
